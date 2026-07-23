@@ -49,9 +49,9 @@ const App = () => {
       <div className='h-screen w-full bg-red' onWheel={(elem)=>{
         pageScroll(elem.deltaY)
       }}>
-        <div className='h-[100vh] w-full bg-gray-400'></div>
-        <div className='h-[100vh] w-full bg-gray-600'></div>
-        <div className='h-[100vh] w-full bg-gray-500'></div>
+        <div className='h-200 w-full bg-gray-400'></div>
+        <div className='h-200 w-full bg-gray-600'></div>
+        <div className='h-200 w-full bg-gray-500'></div>
       </div>
     </div>
   )

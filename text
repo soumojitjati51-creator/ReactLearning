@@ -1,2 +1,5 @@
 if we use js file type =module then import export becomes easy
 export 2 types-named,default
+
+
+For using context API, we need three things. First of all, we need context, second, we need provider, third, we need use context.S
